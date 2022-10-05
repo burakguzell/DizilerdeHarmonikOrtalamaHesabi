@@ -1,9 +1,7 @@
-
-
 public class Main {
     public static void main(String[] args) {
 
-        int[] list = new int[]{1,2,3,4,5};
+        int[] list = {1,2,3,4,5};
 
         double result = 0.0;
         double harmOrt;
